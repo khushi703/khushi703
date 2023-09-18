@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/khushi-zalavadiya-39894626a/**
 
-- 📄 Know about my experiences [file:///C:/Users/khush/OneDrive/Desktop/MY%20RESUME%20(2).pdf](file:///C:/Users/khush/OneDrive/Desktop/MY%20RESUME%20(2).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
