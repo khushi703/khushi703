@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@_khushi_0805_" target="blank"><img src="https://img.shields.io/twitter/follow/@_khushi_0805_?logo=twitter&style=for-the-badge" alt="@_khushi_0805_" /></a> </p>
 
-- 🌱 I’m currently learning **java,DSA,js,nordjs,cloud**
+- 🌱 I’m currently learning **java,DSA,js,nodejs,cloud.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/khushi-zalavadiya-39894626a/**
 
