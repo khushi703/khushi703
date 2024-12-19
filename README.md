@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Khushi Zalavadiya </h1>
-
+<img scr=""C:\Users\khush\OneDrive\Desktop\github.jpg""/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi703&label=Profile%20views&color=0e75b6&style=flat" alt="khushi703" /> </p>
 
